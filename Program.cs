@@ -1,10 +1,12 @@
-﻿namespace AdressBook 
+﻿using System;
+
+namespace EmployeePayrollSystemThreading
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to pay roll problem using Threading");
+            Console.WriteLine("Welcome to Employee Payroll System -Threading Day 36");
         }
     }
 }
